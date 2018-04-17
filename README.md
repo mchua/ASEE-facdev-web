@@ -15,4 +15,8 @@ We're just getting started, so these resources will expand as we grow.
 Meet us in person: ASEE Annual Conference and Exposition (2018)
 ================================================================
 
-We will have conference sessions, gatherings, and other faculty development events at the [ASEE Annual Conference and Exposition](https://www.asee.org/conferences-and-events/conferences/annual-conference/2018), which is in Salt Lake City from June 24-27, 2018. Stay tuned for the schedule of events! These will also be announced on our [mailing list.](https://groups.google.com/forum/#!forum/engr-pod)
+We will have conference sessions, gatherings, and other faculty development events at the [ASEE Annual Conference and Exposition](https://www.asee.org/conferences-and-events/conferences/annual-conference/2018), which is in Salt Lake City from June 24-27, 2018.
+
+[See the schedule of events online!](http://bit.ly/2018ASEE_conf-sessions)
+
+As more plans are made, they will be announced on our [mailing list.](https://groups.google.com/forum/#!forum/engr-pod)
