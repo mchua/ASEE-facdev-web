@@ -1,12 +1,9 @@
-# (Engineering Education) Faculty Development
-A constitutent committee of the [American Society for Engineering Education](http://asee.org)
-
 What we do
 =============
 
 The goal of the Faculty Development Constituency Committee is to create a more visible role for engineering education faculty developers. We often work in the translation of research to practice, and act as a contact point for sharing expertise around faculty development.
 
-As a recently (2018) organized cohort within the ASEE (American Society for Engineering Education) community, our intention is to strategically facilitate sessions and meet ups where faculty development practitioners and researchers can connect and collaborate with other faculty developers. Together, we dialogue around current research, share resources and promising practices, and discuss issues relevant to the faculty that we serve.
+As a recently (2018) organized cohort within the ASEE ([American Society for Engineering Education](http://asee.org)) community, our intention is to strategically facilitate sessions and meet ups where faculty development practitioners and researchers can connect and collaborate with other faculty developers. Together, we dialogue around current research, share resources and promising practices, and discuss issues relevant to the faculty that we serve.
 
 Resources 
 ==========================
