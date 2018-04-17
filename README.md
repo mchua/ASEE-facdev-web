@@ -8,9 +8,14 @@ As a recently (2018) organized cohort within the ASEE ([American Society for Eng
 Resources 
 ==========================
 
-We're just getting started, so these resources will expand as we grow.
+Stay tuned for our resource library - we're just getting started, so these resources will expand as we grow.
 
-[Join our mailing list!](https://groups.google.com/forum/#!forum/engr-pod) This list is our primary gathering place at present. It is open to anyone who's interested in joining the conversation. Announcements, questions, and general community chat all take place here. We look forward to meeting you online!
+How to join
+=============
+
+First, [join the discussion on our mailing list!](https://groups.google.com/forum/#!forum/engr-pod) This list is our primary gathering place at present. It is open to anyone who's interested in joining the conversation, whether or not they are a formal member of ASEE or our Constitutency Committee within ASEE. Announcements, questions, and general community chat all take place here. We look forward to meeting you online!
+
+If you want to formally join the Faculty Development Constituency Committee (and please do!), select us as a "division" when you [join or renew your ASEE membership](https://www.asee.org/about-us/types-of-membership/individual-membership).
 
 Meet us in person: ASEE Annual Conference and Exposition (2018)
 ================================================================
