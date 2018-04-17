@@ -8,4 +8,11 @@ As a recently (2018) organized cohort within the ASEE ([American Society for Eng
 Resources 
 ==========================
 
-We're just getting started, so these resources will expand as we grow. For now, we have a [mailing list](https://groups.google.com/forum/#!forum/engr-pod) that's open to anyone who's interested in joining the conversation. Announcements, questions, and general community chat all take place there, for the time being. Please join us!
+We're just getting started, so these resources will expand as we grow.
+
+[Join our mailing list!](https://groups.google.com/forum/#!forum/engr-pod) This list is our primary gathering place at present. It is open to anyone who's interested in joining the conversation. Announcements, questions, and general community chat all take place here. We look forward to meeting you online!
+
+Meet us in person: ASEE Annual Conference and Exposition (2018)
+================================================================
+
+We will have conference sessions, gatherings, and other faculty development events at the [ASEE Annual Conference and Exposition](https://www.asee.org/conferences-and-events/conferences/annual-conference/2018), which is in Salt Lake City from June 24-27, 2018. Stay tuned for the schedule of events! These will also be announced on our [mailing list.](https://groups.google.com/forum/#!forum/engr-pod)
